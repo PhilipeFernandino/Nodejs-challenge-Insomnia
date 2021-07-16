@@ -1,7 +1,7 @@
 _id: req_647b8b7316824bbd8fad0b5bab51540c
 type: Request
 parentId: fld_e86802d1c6404fe4a2224a3a47c41003
-modified: 1626468017816
+modified: 1626468401506
 created: 1626468017816
 url: "{{ _.url }}user"
 name: Create
@@ -12,15 +12,15 @@ body:
   params:
     - id: pair_6b0b9968bae04544bfa2dbc2b97c44b4
       name: name
-      value: Philipe Fernandino
+      value: Nome Sobrenome
       description: ""
     - id: pair_308d17aff42349e0aeccb4fef78475da
       name: email
-      value: "{% gerarEmail 'email.test.', true, 1, 9999, '', 'mock.com.br' %}"
+      value: teste1@gmail.com
       description: ""
     - id: pair_81f7f221f969425e8192c54f8fe73ef4
       name: username
-      value: philf1
+      value: teste1
       description: ""
     - id: pair_fb2ccf7d3c754f06b296ad949a780916
       name: bio
