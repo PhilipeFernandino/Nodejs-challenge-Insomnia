@@ -1,0 +1,21 @@
+_id: req_2d2439a07c2d46e1b95913618fd206dd
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017873
+created: 1626468017873
+url: "{{ _.url }}repo/philf2/nodejs-challenge4"
+name: Get by slug
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626384997329
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

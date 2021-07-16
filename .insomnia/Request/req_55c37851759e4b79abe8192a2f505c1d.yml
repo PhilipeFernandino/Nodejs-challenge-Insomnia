@@ -1,0 +1,21 @@
+_id: req_55c37851759e4b79abe8192a2f505c1d
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017839
+created: 1626468017839
+url: "{{ _.url }}user/3/unfollow/2"
+name: Unfollow user
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626219565423.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

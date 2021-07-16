@@ -1,0 +1,21 @@
+_id: req_19fcac0996f64747844b56bccb4f0273
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017878
+created: 1626468017878
+url: "{{ _.url }}user/3/repo"
+name: Index by userId
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626384997279
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

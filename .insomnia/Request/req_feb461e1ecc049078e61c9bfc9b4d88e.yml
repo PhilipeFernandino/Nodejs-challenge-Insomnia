@@ -1,0 +1,21 @@
+_id: req_feb461e1ecc049078e61c9bfc9b4d88e
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017892
+created: 1626468017892
+url: "{{ _.url }}user/2/star/1"
+name: Give star
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626302281301.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

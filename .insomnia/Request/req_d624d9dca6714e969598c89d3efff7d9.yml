@@ -1,0 +1,26 @@
+_id: req_d624d9dca6714e969598c89d3efff7d9
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017887
+created: 1626468017887
+url: "{{ _.url }}repo/1"
+name: Delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_24c46bf300354dec8faf9b9148414dca
+authentication: {}
+metaSortKey: -1626302281351.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

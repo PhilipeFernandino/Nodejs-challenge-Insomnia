@@ -1,0 +1,21 @@
+_id: req_071d5fed2b56486ea66175b6c9d0e1da
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017835
+created: 1626468017835
+url: "{{ _.url }}user/3/follow/2"
+name: Follow user
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626219565429.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

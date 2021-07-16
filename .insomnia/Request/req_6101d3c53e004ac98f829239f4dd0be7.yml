@@ -1,0 +1,21 @@
+_id: req_6101d3c53e004ac98f829239f4dd0be7
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017901
+created: 1626468017901
+url: "{{ _.url }}repo/1"
+name: Get by id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626384997304
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

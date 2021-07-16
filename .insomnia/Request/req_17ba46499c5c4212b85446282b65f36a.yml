@@ -1,0 +1,30 @@
+_id: req_17ba46499c5c4212b85446282b65f36a
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017882
+created: 1626468017882
+url: "{{ _.url }}repo/1"
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_51d3f598bac2490b8da2cbb64e1466d8
+      name: name
+      value: nodejs--challenge
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_24c46bf300354dec8faf9b9148414dca
+authentication: {}
+metaSortKey: -1626384997229
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

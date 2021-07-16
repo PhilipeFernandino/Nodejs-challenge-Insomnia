@@ -1,0 +1,21 @@
+_id: req_e8e716277f174128b67eca6756032c9a
+type: Request
+parentId: fld_652a9f8c5fb74950bea7e378f96cb699
+modified: 1626468017897
+created: 1626468017897
+url: "{{ _.url }}user/2/unstar/1"
+name: Remove star
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626302281251.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

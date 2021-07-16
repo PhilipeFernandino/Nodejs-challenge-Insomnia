@@ -1,0 +1,37 @@
+_id: req_41b8083cb5a14a239744a5f22761ea0a
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017830
+created: 1626468017830
+url: "{{ _.url }}user/1"
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_a932143a25684e2aa5154dd73c2603f0
+      name: name
+      value: Philipe Emanuel
+      description: ""
+    - id: pair_40a4f7a89d834bf3a0070031c52f8bb6
+      name: avatar
+      value: ""
+      description: ""
+      type: file
+      multiline: null
+      fileName: C:\Users\phili\Desktop\57276004.png
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_7fcb7e70aa02487daecf47d1e078a450
+authentication: {}
+metaSortKey: -1626219565436
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

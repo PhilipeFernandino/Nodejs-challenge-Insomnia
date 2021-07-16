@@ -1,0 +1,21 @@
+_id: req_9431be2241a847518b6b16ae28d84c1d
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017844
+created: 1626468017844
+url: "{{ _.url }}user/philf3/auth"
+name: Auth
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626219565461
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

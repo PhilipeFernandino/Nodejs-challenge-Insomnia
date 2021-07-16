@@ -1,0 +1,21 @@
+_id: req_96b68568fe7b442cb56c23517d05f1ff
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017857
+created: 1626468017857
+url: "{{ _.url }}user/1/following"
+name: Get following
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626219565437.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e6a489863a67426f8596f3fe61930eb1
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017849
+created: 1626468017849
+url: "{{ _.url }}user/1/stars"
+name: Get stars
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626219565442.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

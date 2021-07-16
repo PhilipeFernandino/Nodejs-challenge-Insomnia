@@ -1,0 +1,21 @@
+_id: req_22e0c237ff9d4c6d9d8b696efd1603e4
+type: Request
+parentId: fld_e86802d1c6404fe4a2224a3a47c41003
+modified: 1626468017853
+created: 1626468017853
+url: "{{ _.url }}user/3/followers"
+name: Get followers
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626219565439.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
